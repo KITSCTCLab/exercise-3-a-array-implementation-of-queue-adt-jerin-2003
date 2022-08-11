@@ -10,7 +10,7 @@ class Solution:
       """
 
     # Write your code here
-    def __init__(self, size):
+    def _init_(self, size):
         
         """Inits Solution with stack, queue, size, top, front and rear.
         Arguments:
